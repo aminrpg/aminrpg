@@ -18,4 +18,8 @@
 - 🔐 ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?style=flat-square)
 
 
-- 💵 Donate: ![Keybase BTC](https://img.shields.io/keybase/btc/aminrpg?style=flat-square) or ![Keybase XLM](https://img.shields.io/keybase/xlm/aminrpg?style=flat-square) or ![Keybase XLM](https://img.shields.io/keybase/xlm/aminrpg?style=flat-square) or ![Keybase ZEC](https://img.shields.io/keybase/zec/aminrpg?style=flat-square)
+- 💵 Donate BTC: ![Keybase BTC](https://img.shields.io/keybase/btc/aminrpg?style=flat-square)
+
+- 💵 Donate XLM: ![Keybase XLM](https://img.shields.io/keybase/xlm/aminrpg?style=flat-square)
+
+- 💵 Donate ZEC: ![Keybase ZEC](https://img.shields.io/keybase/zec/aminrpg?style=flat-square)
