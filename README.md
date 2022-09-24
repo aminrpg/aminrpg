@@ -9,10 +9,13 @@
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIN_RPG&range=all_time&layout=compact)](https://github.com/aminrpg)
  -->
-- 💬 Ask me about PHP, Python
+- 💬 Ask me about PHP, Python, JavaScript,
 
 
-- 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://amin_rpg.t.me) or [![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/)
+- 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://amin_rpg.t.me) or
+[![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/) or
+[![Linkedin](https://img.shields.io/badge/-AMIN_RPG-blue?logo=twitter)](https://twitter.com/amin_rpg/)
 
 
 - 🔐 PGP: ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?color=%23003A70&label=PGP&logo=letsencrypt&style=flat-square)
