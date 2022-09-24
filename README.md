@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Amin Sepehri
 
-![GitHub User's stars](https://img.shields.io/github/stars/aminrpg?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/aminrpg?style=social) ![GitHub User's Profile Views](https://komarev.com/ghpvc/?username=aminrpg&style=social)
 
 [![wakatime](https://wakatime.com/badge/user/3378f9fb-b585-418c-a090-27669dc05c29.svg)](https://wakatime.com/@3378f9fb-b585-418c-a090-27669dc05c29)
 
