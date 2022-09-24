@@ -15,7 +15,7 @@
 - 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://amin_rpg.t.me) or [![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/)
 
 
-- 🔐 ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?style=flat-square)
+- 🔐 PGP: ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?color=%23003A70&label=PGP&logo=letsencrypt&style=flat-square)
 
 
 - 💰 Donate BTC: ![Keybase BTC](https://img.shields.io/keybase/btc/aminrpg?color=orange&label=Bitcoin&logo=bitcoin&style=flat-square)
