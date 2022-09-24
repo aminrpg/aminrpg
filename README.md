@@ -9,7 +9,7 @@
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIN_RPG&range=all_time&layout=compact)](https://github.com/aminrpg)
  -->
-- 💬 Ask me about PHP, Python, JavaScript,
+- 💬 Ask me about PHP, Python, JavaScript, AI
 
 
 - 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or
