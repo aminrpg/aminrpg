@@ -12,7 +12,7 @@
 - 💬 Ask me about PHP, Python
 
 
-- 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://aminrpg.t.me) or [![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/)
+- 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://amin_rpg.t.me) or [![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/)
 
 
 - 🔐 ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?style=flat-square)
