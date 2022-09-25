@@ -14,9 +14,9 @@
 
 - 📫 How to reach me: [![aminrpg@gmail.com](https://img.shields.io/badge/-aminrpg%40gmail.com-red?logo=Gmail&logoColor=white)](mailto:aminrpg@gmail.com) or
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://amin_rpg.t.me) or
-[![Linkedin](https://img.shields.io/badge/-Amin%20Sepehri-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/) or
-[![Instagram](https://img.shields.io/badge/-AMIN_RPG-red?logo=instagram&logoColor=white)](https://instagram.com/amin_rpg/) or
-[![Twitter](https://img.shields.io/badge/-@AMIN_RPG-blue?logo=twitter&logoColor=white)](https://twitter.com/amin_rpg/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/aminrpg/) or
+[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/amin_rpg/) or
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/amin_rpg/)
 
 
 - 🔐 PGP: ![Keybase PGP](https://img.shields.io/keybase/pgp/aminrpg?color=%23003A70&label=PGP&logo=letsencrypt&style=flat-square)
