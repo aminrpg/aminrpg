@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/3378f9fb-b585-418c-a090-27669dc05c29.svg)](https://wakatime.com/@3378f9fb-b585-418c-a090-27669dc05c29)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminrpg&count_private=true&show_icons=true)](https://github.com/aminrpg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminrpg&layout=compact)](https://github.com/aminrpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminrpg)](https://github.com/aminrpg)
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIN_RPG&range=all_time&layout=compact)](https://github.com/aminrpg)
  -->
